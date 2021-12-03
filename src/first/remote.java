@@ -5,6 +5,7 @@ public class remote {
 
         System.out.println("push it to remote");
         // this file will be pushed to remote
+        // added new lines
 
     }
 }
