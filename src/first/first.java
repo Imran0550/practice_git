@@ -6,5 +6,6 @@ public class first {
 
 
         System.out.println("Hello");
+        //added new lines for practice
     }
 }
